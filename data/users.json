@@ -1,0 +1,18 @@
+[
+  {
+    "id": "user_admin",
+    "name": "Admin User",
+    "email": "admin@shop.com",
+    "password": "$2b$10$DrAdzlJmDGFVLGpNhxhUJOU8pwMuBEU8gDLSoSxx2sfwABrl2MxOm",
+    "role": "admin",
+    "createdAt": "2026-06-20T11:59:06.992Z"
+  },
+  {
+    "id": "user_001",
+    "name": "Test User",
+    "email": "user@shop.com",
+    "password": "$2b$10$4Vct2NZS/byfRUN/vhf41.QE15QOg.CUJrTFqjnanOWbMaKFB4Xai",
+    "role": "user",
+    "createdAt": "2026-06-20T11:59:06.994Z"
+  }
+]
